@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1f15896-ab2d-4879-b820-a1c048a1ecd3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="92" />
+    <option name="y" value="23" />
+    <option name="width" value="1143" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectId" id="1UmMuQbEeVwBIlofd93H5cHe5eR" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568400509913" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/js" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/img" />
+      <recent name="$PROJECT_DIR$/src/assets/css" />
+      <recent name="$PROJECT_DIR$/src/assets/js" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f15896-ab2d-4879-b820-a1c048a1ecd3" name="Default" comment="" />
+      <created>1533374363936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533374363936</updated>
+      <workItem from="1533374365309" duration="67000" />
+      <workItem from="1535427728544" duration="517000" />
+      <workItem from="1537612630562" duration="511000" />
+      <workItem from="1537627839223" duration="68000" />
+      <workItem from="1545037884365" duration="6000" />
+      <workItem from="1545737618371" duration="300000" />
+      <workItem from="1546519457967" duration="1629000" />
+      <workItem from="1547049945167" duration="593000" />
+      <workItem from="1547050717601" duration="6390000" />
+      <workItem from="1547081959308" duration="7549000" />
+      <workItem from="1547169117886" duration="7427000" />
+      <workItem from="1547259733921" duration="12903000" />
+      <workItem from="1547401037451" duration="675000" />
+      <workItem from="1547426876909" duration="12381000" />
+      <workItem from="1547514272627" duration="13231000" />
+      <workItem from="1547810968076" duration="6614000" />
+      <workItem from="1552353452341" duration="1205000" />
+      <workItem from="1552967980757" duration="450000" />
+      <workItem from="1552981289907" duration="160000" />
+      <workItem from="1553401364893" duration="349000" />
+      <workItem from="1553421861129" duration="2000" />
+      <workItem from="1555941225906" duration="4395000" />
+      <workItem from="1555984879547" duration="709000" />
+      <workItem from="1556003078691" duration="12938000" />
+      <workItem from="1556093607729" duration="19450000" />
+      <workItem from="1556159433422" duration="28033000" />
+      <workItem from="1556213679157" duration="670000" />
+      <workItem from="1556214858034" duration="772000" />
+      <workItem from="1556769117748" duration="1458000" />
+      <workItem from="1556785387070" duration="1523000" />
+      <workItem from="1558338255807" duration="146000" />
+      <workItem from="1558340392613" duration="376000" />
+      <workItem from="1558507638425" duration="240000" />
+      <workItem from="1558520217900" duration="898000" />
+      <workItem from="1558546061583" duration="722000" />
+      <workItem from="1558600761053" duration="3423000" />
+      <workItem from="1558630820536" duration="24000" />
+      <workItem from="1559320268151" duration="365000" />
+      <workItem from="1559322777470" duration="149000" />
+      <workItem from="1559361610983" duration="237000" />
+      <workItem from="1559387222294" duration="1736000" />
+      <workItem from="1559810485489" duration="163000" />
+      <workItem from="1559919039297" duration="54000" />
+      <workItem from="1559978588775" duration="804000" />
+      <workItem from="1559983468589" duration="156000" />
+      <workItem from="1559995893562" duration="34908000" />
+      <workItem from="1560074748216" duration="134000" />
+      <workItem from="1560163169434" duration="254000" />
+      <workItem from="1560179159064" duration="364000" />
+      <workItem from="1560186928706" duration="302000" />
+      <workItem from="1560227770260" duration="49000" />
+      <workItem from="1560246919039" duration="312000" />
+      <workItem from="1560255022391" duration="368000" />
+      <workItem from="1560258723070" duration="21000" />
+      <workItem from="1560488954460" duration="737000" />
+      <workItem from="1560499938497" duration="851000" />
+      <workItem from="1560509377416" duration="295000" />
+      <workItem from="1560521497661" duration="959000" />
+      <workItem from="1560596850935" duration="447000" />
+      <workItem from="1560599717273" duration="357000" />
+      <workItem from="1560601548679" duration="236000" />
+      <workItem from="1560601840591" duration="237000" />
+      <workItem from="1560602254507" duration="2000" />
+      <workItem from="1561553634915" duration="427000" />
+      <workItem from="1561555682096" duration="228000" />
+      <workItem from="1564758442910" duration="151000" />
+      <workItem from="1565504599312" duration="570000" />
+      <workItem from="1565638254324" duration="49000" />
+      <workItem from="1565796834750" duration="129000" />
+      <workItem from="1565801755733" duration="98000" />
+      <workItem from="1566229765761" duration="195000" />
+      <workItem from="1566262386920" duration="315000" />
+      <workItem from="1566263116531" duration="80000" />
+      <workItem from="1567101457749" duration="75000" />
+      <workItem from="1567502722810" duration="286000" />
+      <workItem from="1567576251482" duration="197000" />
+      <workItem from="1568127456340" duration="619000" />
+      <workItem from="1568337195634" duration="19167000" />
+      <workItem from="1568387636033" duration="8563000" />
+      <workItem from="1568431818328" duration="632000" />
+      <workItem from="1568432687949" duration="97000" />
+      <workItem from="1568433496145" duration="123000" />
+      <workItem from="1568459839399" duration="514000" />
+      <workItem from="1568622546164" duration="265000" />
+      <workItem from="1575957542084" duration="105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
