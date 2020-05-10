@@ -1,12 +1,13 @@
 # utadamusic
-基于vue-cli+springboot+mybaits的音乐网站
-1.获得程序当前路径:
-System.getProperty("user.dir”)
+基于vue-cli+springboot+mybaits的音乐网站<br/>
 
-更新歌手,歌单,歌曲的图片
-在各自的controller层中 
+在server的controller下,更新LoginController,SingerController,SongController,SongListController下找到以下代码,更改本地路径
 ```java
-String filePath = System.getProperty("user.dir") + System.getProperty("file.separator")+
-"data"+System.getProperty("file.separator")+ "img" + System.getProperty("file.separator") + "singerPic” ;
+@Configuration
+    public class MyPicConfig implements WebMvcConfigurer {
+        @Override
+        public void addResourceHandlers(ResourceHandlerRegistry registry) {
+            registry.addResourceHandler("/img/avatorImages/**").addResourceLocations("file:/Users/dominiquewei/Documents/Coding/Java-Web/vue/utadamusic/utadamusic-server/data/img/avatorImages/");
+        }
+    }
 ```
-记得加入”data"
